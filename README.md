@@ -1,8 +1,8 @@
 # Dados Geográficos
 
 Esse respositório tem o intuito de agrupar as fontes de dados geográficos que venho encontrando pelo caminho...  
-Coloaborações serão bem vindas em forma de `issues`.
-
+Coloaborações serão bem vindas em forma de `issues`.  
+Abra uma [aqui](https://github.com/kylefelipe/dados-geo/issues).
 
 - IBGE:  
   Link: https://www.ibge.gov.br/geociencias/downloads-geociencias.html  
